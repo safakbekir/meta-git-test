@@ -1,3 +1,5 @@
 {
-  "projects": {}
+  "projects": {
+    "public\\test": "https://github.com/safakbekir/public.git"
+  }
 }
